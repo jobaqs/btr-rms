@@ -1,0 +1,29 @@
+<%- model_class = Assignment -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human %></h1>
+</div>
+
+<dl class="dl-horizontal">
+  <dt><strong><%= model_class.human_attribute_name(:document_id) %>:</strong></dt>
+  <dd><%= @assignment.document_id %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:user_id) %>:</strong></dt>
+  <dd><%= @assignment.user_id %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:assigned_by) %>:</strong></dt>
+  <dd><%= @assignment.assigned_by %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:date_accepted) %>:</strong></dt>
+  <dd><%= @assignment.date_accepted %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:ancestry) %>:</strong></dt>
+  <dd><%= @assignment.ancestry %></dd>
+</dl>
+
+<div class="form-actions">
+  <%= link_to t('.back', :default => t("helpers.links.back")),
+              assignments_path, :class => 'btn'  %>
+  <%= link_to t('.edit', :default => t("helpers.links.edit")),
+              edit_assignment_path(@assignment), :class => 'btn' %>
+  <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+              assignment_path(@assignment),
+              :method => 'delete',
+              :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+              :class => 'btn btn-danger' %>
+</div>

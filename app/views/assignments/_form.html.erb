@@ -1,0 +1,15 @@
+<div >
+
+  <%= form_for @assignment, :html => { :class => 'form-inline' } do |f| %>
+    <%= f.hidden_field :document_id %>
+    <%= f.hidden_field :assigned_by %>
+    <div class="control-group">
+      <div class="controls">
+        <%= f.select :user_id, user_selection,:include_blank => 'Please select...', :class => 'select' %>
+        <%= f.submit 'Assign', :class => 'btn btn-primary btn-mini' %>
+      </div>
+    </div>
+      
+  <% end %>
+  
+</div>  

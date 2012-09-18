@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cdasia/!svn/ver/454/trunk/rms/config/environments
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdasia/!svn/ver/454/trunk/rms/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cdasia/!svn/ver/454/trunk/rms/config/environments/production.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cdasia/!svn/ver/454/trunk/rms/config/environments/test.rb
+END

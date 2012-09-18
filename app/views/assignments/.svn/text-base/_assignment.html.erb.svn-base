@@ -1,0 +1,16 @@
+<tr onclick="location.href='<%= document_path(:id => assignment.new_document, :assignment_id => assignment.id) %>'">
+  <td><%= link_to assignment.id, assignment_path(assignment) %></td>
+  <td><%= assignment.document_id %></td>
+  <td><%= assignment.assigned_by %></td>
+  <td><%= assignment.date_accepted %></td>
+  <td><%=l assignment.created_at %></td>
+  <td>
+    <%= link_to t('.edit', :default => t("helpers.links.edit")),
+                edit_assignment_path(assignment), :class => 'btn btn-mini' %>
+    <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+                assignment_path(assignment),
+                :method => :delete,
+                :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+                :class => 'btn btn-mini btn-danger' %>
+  </td>
+</tr>

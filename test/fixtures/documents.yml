@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  folder_id: 1
+  document_number: MyString
+  doctype_id: 1
+  subject_matter: MyString
+  due_on: 2012-09-17
+  remarks: MyText
+  user_id: 1
+
+two:
+  folder_id: 1
+  document_number: MyString
+  doctype_id: 1
+  subject_matter: MyString
+  due_on: 2012-09-17
+  remarks: MyText
+  user_id: 1

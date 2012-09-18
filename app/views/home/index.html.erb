@@ -1,0 +1,34 @@
+<h1>Home#index</h1>
+<p><%= current_user.roles.collect(&:name).join(', ') + current_user.id.to_s %>
+</p>
+
+<div class="content">
+  <div class="span6">
+    <h4 class="page-header">New Assignments</h4>
+    <% model_class = Assignment %>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th><%= model_class.human_attribute_name(:document_id) %></th>
+          <th><%= model_class.human_attribute_name(:assigned_by) %></th>
+          <th><%=t '.actions', :default => t("helpers.actions") %></th>
+        </tr>
+      </thead>
+      <tbody>
+        <%= render :partial => 'assignments/assignment', :collection => @assignments %>
+      </tbody>
+    </table>
+  </div>
+  <div class="span6">
+    <h4 class="page-header">Urgent Documents</h4>
+  </div>
+</div>
+<hr />
+<div class="content">
+  <div class="span6">
+    <h4 class="page-header">Current Assignments</h4>
+  </div>
+  <div class="span6">
+    <h4 class="page-header">For Approval</h4>
+  </div>
+</div>

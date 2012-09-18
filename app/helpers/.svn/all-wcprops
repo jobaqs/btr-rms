@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cdasia/!svn/ver/459/trunk/rms/app/helpers
+END
+home_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/home_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/application_helper.rb
+END
+doctypes_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/doctypes_helper.rb
+END
+remarks_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/remarks_helper.rb
+END
+folders_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/folders_helper.rb
+END
+assignments_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/assignments_helper.rb
+END
+divisions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cdasia/!svn/ver/459/trunk/rms/app/helpers/divisions_helper.rb
+END
+documents_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/documents_helper.rb
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cdasia/!svn/ver/454/trunk/rms/app/helpers/users_helper.rb
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cdasia/!svn/ver/463/trunk/rms/db/migrate
+END
+20120917084544_create_doctypes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cdasia/!svn/ver/454/trunk/rms/db/migrate/20120917084544_create_doctypes.rb
+END
+20120917085645_add_ancestry_to_document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cdasia/!svn/ver/458/trunk/rms/db/migrate/20120917085645_add_ancestry_to_document.rb
+END
+20120917085520_create_remarks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cdasia/!svn/ver/454/trunk/rms/db/migrate/20120917085520_create_remarks.rb
+END
+20120917081941_devise_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cdasia/!svn/ver/454/trunk/rms/db/migrate/20120917081941_devise_create_users.rb
+END
+20120917082525_create_documents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cdasia/!svn/ver/454/trunk/rms/db/migrate/20120917082525_create_documents.rb
+END
+20120918032412_add_assigned_to_document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cdasia/!svn/ver/463/trunk/rms/db/migrate/20120918032412_add_assigned_to_document.rb
+END
+20120917085646_add_ancestry_to_folder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cdasia/!svn/ver/458/trunk/rms/db/migrate/20120917085646_add_ancestry_to_folder.rb
+END
+20120917075512_create_divisions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cdasia/!svn/ver/454/trunk/rms/db/migrate/20120917075512_create_divisions.rb
+END
+20120917085644_create_assignments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cdasia/!svn/ver/454/trunk/rms/db/migrate/20120917085644_create_assignments.rb
+END
+20120918013309_rolify_create_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cdasia/!svn/ver/463/trunk/rms/db/migrate/20120918013309_rolify_create_roles.rb
+END
+20120914081946_create_folders.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cdasia/!svn/ver/458/trunk/rms/db/migrate/20120914081946_create_folders.rb
+END
+20120918015949_add_name_to_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cdasia/!svn/ver/463/trunk/rms/db/migrate/20120918015949_add_name_to_user.rb
+END

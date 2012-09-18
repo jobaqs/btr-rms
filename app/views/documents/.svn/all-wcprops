@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cdasia/!svn/ver/463/trunk/rms/app/views/documents
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cdasia/!svn/ver/454/trunk/rms/app/views/documents/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cdasia/!svn/ver/467/trunk/rms/app/views/documents/show.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cdasia/!svn/ver/454/trunk/rms/app/views/documents/edit.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdasia/!svn/ver/463/trunk/rms/app/views/documents/_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdasia/!svn/ver/454/trunk/rms/app/views/documents/index.html.erb
+END

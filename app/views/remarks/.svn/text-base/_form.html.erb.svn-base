@@ -1,0 +1,10 @@
+<%= form_for @remark, :html => { :class => 'form-horizontal' } do |f| %>
+  <%= f.hidden_field :document_id %>
+  <%= f.hidden_field :user_id %>
+  <div>
+    <div>
+      <%= f.text_field :content, :class => 'input-medium search-query', :placeholder => 'enter remark here'%>&nbsp;
+      <%= f.submit 'Save', :class => 'btn btn-primary btn-mini' %>
+    </div>
+  </div>
+<% end %>

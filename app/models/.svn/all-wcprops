@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cdasia/!svn/ver/463/trunk/rms/app/models
+END
+folder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cdasia/!svn/ver/454/trunk/rms/app/models/folder.rb
+END
+assignment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cdasia/!svn/ver/463/trunk/rms/app/models/assignment.rb
+END
+division.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cdasia/!svn/ver/454/trunk/rms/app/models/division.rb
+END
+document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cdasia/!svn/ver/463/trunk/rms/app/models/document.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cdasia/!svn/ver/463/trunk/rms/app/models/user.rb
+END
+ability.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cdasia/!svn/ver/463/trunk/rms/app/models/ability.rb
+END
+role.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cdasia/!svn/ver/463/trunk/rms/app/models/role.rb
+END
+doctype.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cdasia/!svn/ver/454/trunk/rms/app/models/doctype.rb
+END
+remark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cdasia/!svn/ver/454/trunk/rms/app/models/remark.rb
+END

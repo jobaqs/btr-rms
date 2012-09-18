@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit
+END
+document_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit/document_test.rb
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit/user_test.rb
+END
+assignment_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit/assignment_test.rb
+END
+division_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit/division_test.rb
+END
+folder_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit/folder_test.rb
+END
+remark_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit/remark_test.rb
+END
+doctype_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cdasia/!svn/ver/454/trunk/rms/test/unit/doctype_test.rb
+END

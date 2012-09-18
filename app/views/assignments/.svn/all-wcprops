@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cdasia/!svn/ver/463/trunk/rms/app/views/assignments
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdasia/!svn/ver/454/trunk/rms/app/views/assignments/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cdasia/!svn/ver/454/trunk/rms/app/views/assignments/show.html.erb
+END
+_assignment.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cdasia/!svn/ver/463/trunk/rms/app/views/assignments/_assignment.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cdasia/!svn/ver/454/trunk/rms/app/views/assignments/edit.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cdasia/!svn/ver/456/trunk/rms/app/views/assignments/_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cdasia/!svn/ver/454/trunk/rms/app/views/assignments/index.html.erb
+END

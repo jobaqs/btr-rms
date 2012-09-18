@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures
+END
+assignments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures/assignments.yml
+END
+divisions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures/divisions.yml
+END
+documents.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures/documents.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures/users.yml
+END
+doctypes.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures/doctypes.yml
+END
+remarks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures/remarks.yml
+END
+folders.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cdasia/!svn/ver/454/trunk/rms/test/fixtures/folders.yml
+END

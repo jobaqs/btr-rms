@@ -1,0 +1,43 @@
+<%- model_class = Folder -%>
+
+<div class="row"><h3>List of <%=t '.title', :default => model_class.model_name.human.pluralize %></h3></div>
+<%= link_to t('.new', :default => t("helpers.links.new")),
+            new_folder_path,
+            :class => 'btn btn-primary' %>
+<div class="row-fluid">
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th><%= model_class.human_attribute_name(:title) %></th>
+      <th># of Documents</th>
+      <th><%= model_class.human_attribute_name(:subject_matter) %></th>
+      <th><%= model_class.human_attribute_name(:division) %></th>
+      <th><%= model_class.human_attribute_name(:user_id) %></th>
+      <th><%=t '.actions', :default => t("helpers.actions") %></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @folders.each do |folder| %>
+      <tr onclick="location.href='<%= folder_path(folder) %>'">
+        <td><%= folder.title %></td>
+        <td style="text-align: center;"><%= folder.documents.count %></td>
+        <td><%= folder.subject_matter %></td>
+        <td><%= folder.division_id %></td>
+        <td><%= folder.user.email %></td>
+        <td>
+          <%= link_to t('.edit', :default => t("helpers.links.edit")),
+                      edit_folder_path(folder), :class => 'btn btn-mini' %>
+          <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+                      folder_path(folder),
+                      :method => :delete,
+                      :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+                      :class => 'btn btn-mini btn-danger' %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+</div>
+  
+
+
